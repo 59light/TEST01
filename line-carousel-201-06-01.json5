@@ -1,0 +1,102 @@
+{
+  altText: '由 LINE API 專家戴均民所開發的 LINE 數位版名片，可免費製作及分享！',
+  btnHeight: 'md',
+  descSize: 'sm',
+  ratio: '40:24',
+  titleSize: 'xl',
+  cards: [
+    {
+      bgColor: '#ffffff',
+      desc: '不會用手機的人',
+      descColor: '#fc6805',
+      desc1: '你好，永慶不動產湖美店，很高興能為你服務',
+      desc1Color: '#fc6805',
+      image: 'https://i.imgur.com/WqC9nsJ.jpg/',
+      link: 'https://shop.yungching.com.tw/063581133/about',
+      title: '四方吹不動',
+      titleColor: '#fc6805',
+      btns: [
+        {
+          color: '#ff8000',
+          link: 'https://shop.yungching.com.tw/063581133/list',
+          style: 'primary',
+          text: '📢 01-買屋請看(按下去)',
+        },
+        {
+          
+          link: 'https://zh-tw.facebook.com/59light',
+          style: 'link',
+          text: '🆓 02-FB臉書',
+          color: '#ff9000',
+        },
+        {
+          color: '#ff8000',
+          link: 'https://shop.yungching.com.tw/063581133/about',
+          style: 'link',
+          text: '🆓 03-關於我們',
+        },
+        {
+          color: '#ff8000',
+          link: 'https://www.etax.nat.gov.tw/etwmain/etw158w/2501',
+          style: 'link',
+          text: '📢 04-線上稅務試算',
+        },
+        {
+          color: '#ff8000',
+          link: 'https://knowhow.yungching.com.tw/tool/loaninterest?nv1=toolR&nv2=loaninterest',
+          style: 'link',
+          text: '📢 05-貸款試算',
+        },
+        {
+          color: '#ff8000',
+          link: 'https://login.ycut.com.tw/login.aspx',
+          style: 'link',
+          text: '🆓 06-i智慧',
+        },
+        {
+          color: '#ff8000',
+          link: 'https://knowhow.yungching.com.tw/tool/loaninterest?nv1=toolR&nv2=loaninterest',
+          style: 'link',
+          text: '🚀 07-分享給朋友(不想開放)',
+        },
+        {
+          color: '#ff8000',
+          link: 'https://knowhow.yungching.com.tw/tool/loaninterest?nv1=toolR&nv2=loaninterest',
+          style: 'link',
+          text: '🚀 08-收藏(不想開放)',
+        },
+        {
+          color: '#ff8000',
+          link: 'http://www.j4.com.tw/james/remoip.php',
+          style: 'link',
+          text: '🆓 09-手機IP',
+        },
+      ],
+    },
+    {
+      image: 'https://www.yungching.com.tw/UPLOAD/PSSHOPIMG/62377/logo/20210813155611890841.jpg?t=20210813155616',
+      link: 'https://shop.yungching.com.tw/063581133/about',
+      desc: '0982551059',
+      title: '吃四方看四方',
+      btns: [
+        {
+          color: '#ff8000',
+          link: 'https://shop.yungching.com.tw/063581133/about',
+          text: '🆓 關於我們',
+          style: 'primary',
+        },
+        {
+          color: '#ff8000',
+          link: 'https://line.me/S/sticker/19275553?_from=lcm',
+          text: '🚀 貼圖(不要買)',
+          style: 'link',
+        },
+      ],
+      titleColor: '#ff8000',
+      descColor: '#ff8000',
+      bgColor: '#ffffff',
+    },
+    
+
+  ],
+}
